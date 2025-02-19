@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity 0.8.28;
+pragma solidity 0.8.20;
 
 interface IERC20 {
     event Approval(address indexed owner, address indexed spender, uint value);
